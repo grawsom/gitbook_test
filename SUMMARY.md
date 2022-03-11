@@ -22,4 +22,4 @@
 
 * [GitBook test](gitbook-test.md)
 
-* [GitBook test_1](gitbook-test_1.md)
+* [GitBook test_1](gitbook_test_1.md)
