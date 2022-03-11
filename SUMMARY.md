@@ -17,7 +17,3 @@
 
 * [Company Weeklies](other-regulars/company-weeklies/README.md)
   * [September 14th 2021](other-regulars/company-weeklies/september-14th-2021.md)
-
-***
-
-* [GitBook test](gitbook-test.md)
