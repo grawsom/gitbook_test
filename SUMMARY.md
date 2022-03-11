@@ -21,5 +21,5 @@
 ***
 
 * [GitBook test](gitbook-test.md)
-
-* [GitBook test_1](gitbook_test_1.md)
+* [GitBook test\_1](gitbook\_test\_1.md)
+* [GitBook test](gitbook-test-1.md)
