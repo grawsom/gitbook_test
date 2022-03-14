@@ -26,15 +26,15 @@ What to show
 {% endhint %}
 
 {% hint style="warning" %}
-
+Test
 {% endhint %}
 
 {% hint style="danger" %}
-
+Test
 {% endhint %}
 
 {% hint style="success" %}
-
+Test
 {% endhint %}
 
 > Qoutes
